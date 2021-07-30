@@ -21,3 +21,13 @@ header{
     border-radius: 5%;
     
 }
+.side-bar{
+    display:inline-block;
+    background-color:teal;
+    padding:2%;
+}
+.main-block{
+    display:inline-block;
+    background-color:yellowgreen;
+    margin:0%;
+}
